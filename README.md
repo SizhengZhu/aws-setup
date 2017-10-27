@@ -8,3 +8,6 @@ Setup for R/RStudio in AWS
 5. You may be asked to choose a region, choose East Coast
 6. Select the Amazon Linux AMI operating system  
 7. 
+
+Notes:
+http://strimas.com/r/rstudio-cloud-1/
