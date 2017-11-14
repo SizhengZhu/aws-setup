@@ -1,4 +1,4 @@
-# AWS Setup
+# AWS Setup & Automated Collection of Tweets
 Setup for R/RStudio in AWS
 
 1. [Create an AWS Account](https://aws.amazon.com/) and log in  
